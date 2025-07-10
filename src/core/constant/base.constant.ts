@@ -1,0 +1,16 @@
+export const KEYS = {
+  PERMISSION: 'PERMISSION_KEY',
+  PUBLIC: 'PUBLIC_KEY',
+  ROLE: 'ROLE_KEY',
+};
+
+export const ROLES = {
+  CORE_ADMIN: 'CORE.ADMIN',
+  CORE_BASIC: 'CORE.BASIC',
+};
+
+export const PERMISSIONS = {
+  CORE_ADMIN: 'CORE.ADMIN',
+  CORE_BASIC: 'CORE.BASIC',
+  ROLE: 'CORE.ROLE',
+};
